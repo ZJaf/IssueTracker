@@ -26,6 +26,9 @@ End
 
 
 # Updated Pseudo - From THE TEACHER :D
+
+```javascript 
+
 //--Display your list --//
 0) Create a function that runs as soon as the page loads
 1) check to see if you have an issues object in local storage, 
@@ -36,3 +39,4 @@ End
 1) if the localstorage is null, create an empty array called issues e.g. var issues = [], push your new item to this, then use localStorage.setItem(issues)  to start storing it in local storage
 2) if the localstorage has something in it already, parse localstorage and assign it to a variable, push your new item into it then "set" it in localstorage 
 3) update the list by calling the function you created before
+```
